@@ -1,0 +1,21 @@
+{
+  "name": "kiann-dark",
+  "displayName": "Kiann Dark",
+  "description": "Clean dark theme for developers, please your eyes.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "arunkumar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arunkumar-color-theme.json"
+      }
+    ]
+  }
+}
