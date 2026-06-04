@@ -1,10 +1,13 @@
 {
-	"name": "arunkumar",
+	"name": "Kiann Dark",
+	"type": "dark",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"editor.background": "#0D1117",
+		"editor.foreground": "#E6EDF3",
+		"sideBar.background": "#161B22",
+		"activityBar.background": "#161B22",
+		"statusBar.background": "#161B22",
+		"editorCursor.foreground": "#58A6FF"
 	},
 	"tokenColors": [
 		{

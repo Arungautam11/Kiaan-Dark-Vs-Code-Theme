@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "arunkumar",
+        "label": "Kiann Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/arunkumar-color-theme.json"
       }
