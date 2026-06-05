@@ -1,11 +1,11 @@
 {
   "name": "kiann-dark",
-  "displayName": "Kiann Dark",
+  "displayName": "kiann dark",
   "description": "Clean dark theme for developers, please your eyes.",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Arungautam11/Kiaan-Dark-Vs-Code-Theme.git"
+    "url": "https://github.com/Arungautam11/Kiaan-Dark-Vs-Code-Theme"
   },
   "publisher": "ArunKumar",
   "engines": {
@@ -19,7 +19,7 @@
       {
         "label": "Kiann Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/kianndark-color-theme.json"
+        "path": "./themes/kiann-dark.json"
       }
     ]
   }
